@@ -1,0 +1,8 @@
+Flask==2.3.3
+SQLAlchemy==1.4.49
+Flask-SQLAlchemy==3.0.5
+Flask-CORS==4.0.0
+Werkzeug==2.3.7
+PyJWT==2.8.0
+pytz==2023.3
+openpyxl==3.1.2
